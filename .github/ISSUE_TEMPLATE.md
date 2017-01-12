@@ -1,0 +1,1 @@
+Delete this! When creating a bug report, please write what is wrong and what you expect to happen. With steps to reproduce the problem if possible. When requesting a feature, try to be as detailed as possible!
